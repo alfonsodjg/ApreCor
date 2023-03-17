@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid
+    android:color="@color/statusBar"
+    />
+    <corners android:radius="20dp"/>
+    <stroke
+        android:width="5dip"
+        android:color="@color/black"
+        />
+</shape>

@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">ApreCor</string>
+    <string name="invalid_email">Formato de correo no valido</string>
+    <string name="invalid_pass">Introduce una contraseña mayor a 6 caracteres</string>
+    <string name="invalid_name">Debes introducir un nombre</string>
+    <string name="MessageResetEmail">Enviando correo..</string>
+
+
+    <string name="itemCerrarSesion">Cerrar sesion</string>
+    <string name="itemAcercaDe">Acerca de:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!--Referencias Strings Pantalla Principal activity3_main_home_levels-->
+    <string name="pantallaprincipal">Pantalla principal</string>
+    <string name="NivelBasico">Basico</string>
+    <string name="NivelMedio">Intermedio</string>
+    <string name="NivelExperto">Experto</string>
+    <!--Fin de referencias Strings Pantalla Principal activity3_main_home_levels-->
+
+    <!--***********************Strings nivel Basico*********************************************************************************-->
+    <!--Referencias Strings Nivel basico-->
+    <string name="indicacion">Presione los botones de abajo para empezar a aprender</string>
+    <string name="nivelFrutas">Frutas</string>
+    <string name="nivelAnimales">Animales</string>
+    <string name="nivelPalabras">Palabras</string>
+    <string name="nivelLugares">Palabras 2</string>
+    <!--Fin de referencias Strings Nivel basico-->
+
+    <!--Referencias Strings Leccion-frutas-->
+    <string name="tvLecFrutas">Leccion-frutas</string>
+    <string name="tvDescripcionLecFrutas">Visualiza en idioma nahuatl algunas de las frutas mas comunes</string>
+    <string name="tvPlatano">Platano/Tzapotl</string>
+    <string name="tvNaranja">Naranja/Xocotl</string>
+    <string name="tvManzana">Manzana/Tzatza</string>
+    <string name="tvElote">Elote/Elotl</string>
+    <string name="tvFrijol">Frijol/Etl</string>
+    <string name="tvTomate">Tomate/Tomatl</string>
+    <!--Fin de referencias Strings Leccion-frutas-->
+
+    <!--Referencias Leccion animales-->
+    <string name="tvLecAnimales">Leccion-animales</string>
+    <string name="tvDescripcionLecAnimales">Visualiza en idioma nahuatl algunos de los animales mas comunes</string>
+    <string name="tvGato">Gato/Miston</string>
+    <string name="tvGallina">Gallina/Piolama</string>
+    <string name="tvHormiga">Hormiga/Askatl</string>
+    <string name="tvRaton">Raton/Kimichi</string>
+    <string name="tvPerro">Perro/Itszkuintli</string>
+    <string name="tvVibora">Vibora/Kowatl</string>
+    <!--Fin referencias leccion animales-->
+
+    <!--Referencias leccion Palabras-->
+    <string name="tvLecPalabras">Leccion-palabras</string>
+    <string name="tvDescripcionLecPalabras">Visualiza en idioma nahuatl algunas de las palabras mas comunes</string>
+    <string name="tvAgua">Ahua/Atl</string>
+    <string name="tvSi">Si/Tlamo</string>
+    <string name="tvCasa">Casa/Kalli</string>
+    <string name="tvBien">Bien/Kualli</string>
+    <string name="tvGracias">Gracias/\nTlasohkamati</string>
+    <string name="tvAqui">Aqui/Nikan</string>
+    <!--Fin referencias leccion palabras-->
+
+    <!--Referencias leccion Palabras2-->
+    <string name="tvLecPalabras2">Leccion-palabras 2</string>
+    <string name="tvDescripcionLecPalabras2">Visualiza en idioma nahuatl algunas de las palabras mas comunes</string>
+    <string name="tvNo">No/Amo</string>
+    <string name="tvDonde">Donde/Kanin</string>
+    <string name="tvCuanto">Cuanto/kech</string>
+    <string name="tvComo">Como/Tlen</string>
+    <string name="tvUno">Uno/Se</string>
+    <string name="tvMi">Mi o Mio/No</string>
+    <!--Fin de referencias leccion Palabras2-->
+    <!--*********************Fin strings nivel basico***********************************************************************************-->
+    <!--*********************Strings nivel intermedio***********************************************************************************-->
+    <string name="tvNivelIntermedio">Intermedio</string>
+    <string name="tvNumeros">Numeros</string>
+    <string name="tvPractica1">Practica 1</string>
+    <string name="tvPractica2">Practica 2</string>
+    <string name="tvPractica3">Practica 3</string>
+    <string name="tvPractica4">Practica 4</string>
+    <!--Referencias leccion numeros-->
+    <string name="tvLecNumeros">Leccion-numeros</string>
+    <string name="tvDescripcionLecNumeros">Visualiza en nahuatl la numeracion de 1 al 10</string>
+    <string name="tvUnos">Uno/Se</string>
+    <string name="tvDos">Dos/Ome</string>
+    <string name="tvTres">Tres/Eyi</string>
+    <string name="tvCuatro">Cuatro/Nawi</string>
+    <string name="tvCinco">Cinco/Makualli</string>
+    <string name="tvSeis">Seis/Chuikuase</string>
+    <string name="tvSiete">Siete/Chikome</string>
+    <string name="tvOcho">Ocho/Chikueyi</string>
+    <string name="tvNueve">Nueve/Chiknawi</string>
+    <string name="tvDiez">Diez/Mahtlaktli</string>
+    <!--Fin referencias leccion numeros-->
+    <!--Referencias leccion numeros juego-->
+    <string name="tvDescripcionJuego">Escribe debajo de cada numero en idioma nahuatl su traduccion correspondiente</string>
+    <string name="tvOme">Ome</string>
+    <string name="tvEyi">Eyi</string>
+    <string name="tvChikuase">Chikuase</string>
+    <string name="tvMahtlaktll">Mahtlaktli</string>
+    <!--Fin de referencias leccion numeros juego-->
+    <!--*********************Fin srtings nivel intermedio***********************************************************************************-->
+
+    <string name="descripcionLec2Sec1">En esta leccion veremos algunos ejemplos\n de
+        animales mas comunes en nuestra vida cotidiana.
+    </string>
+
+    <string name="verEjemplo"><u>Ver ejemplo</u></string>
+
+    <string name="descripcionSec1Nivel3Lec3">Las palabras comunmente conocidas para comunicarse en nahuatl son las siguientes</string>
+    <string name="descripcionSec1Nivel4Lec4">Las palabras comunmente conocidas para comunicarse en nahuatl son las siguientes</string>
+    <string name="descripcionSec2Nivel1Lec1">Los numeros mas comunes en nahuatl son los siguientes</string>
+    <string name="TextAleatorioSec2Nivel3">¿Como se dice "Donde"?</string>
+    <string name="TraduceLaPalabra">Traduce la palabra</string>
+    <string name="espacio">" "</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

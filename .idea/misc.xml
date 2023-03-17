@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/drawable/actionbar_custom.xml" value="0.1035" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/drawable/animation_boton_basico.xml" value="0.2365" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/drawable/animation_boton_experto.xml" value="0.2365" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/drawable/animation_boton_intermedio.xml" value="0.2365" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/drawable/backgroun_customdialog2.xml" value="0.2365" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/drawable/background_display.xml" value="0.226" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/drawable/background_display2.xml" value="0.1035" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/drawable/custom_cardview.xml" value="0.226" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/drawable/ic_starnopressed.xml" value="0.2365" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_levels_section1.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_levels_section2.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_levels_section3.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_main_activity2_registrar_cuenta.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_main_activity3_home_levels.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_reset_pass.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec1_nivel1_lec1.xml" value="0.264" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec1_nivel1_lec1_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec1_nivel2_lec2.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec1_nivel2_lec2_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec1_nivel3_lec3.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec1_nivel3_lec3_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec1_nivel4_lec4.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec1_nivel4_lec4_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec2_nivel1_lec1.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec2_nivel1_lec1_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec2_nivel2_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec2_nivel3_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec2_nivel4_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec3_nivel1_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec3_nivel2_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec3_nivel3_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/activity_sec3_nivel4_juego.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/alert_anim.xml" value="0.264" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/alert_custom.xml" value="0.2" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/alertguia_cpmpleta_pares.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/layout/fragment_create_acouutn.xml" value="0.2" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/menu/overflowpantallaprincipal.xml" value="0.24895833333333334" />
+        <entry key="..\:/danid/AndroidStudioProjects/ApreCor/app/src/main/res/mipmap-anydpi-v26/ic_launcher_pinguinblack.xml" value="0.2365" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

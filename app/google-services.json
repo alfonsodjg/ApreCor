@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959590309666",
+    "project_id": "aprecor-46e48",
+    "storage_bucket": "aprecor-46e48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959590309666:android:32921a172ac654583bcf7b",
+        "android_client_info": {
+          "package_name": "itsz.aprecor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959590309666-r3u72jbgt0lo9afldc4fl8q13uosgekc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itsz.aprecor",
+            "certificate_hash": "3e739932acd15e5ecfade503f0ad7ef1ed912bcb"
+          }
+        },
+        {
+          "client_id": "959590309666-a13o488f2vkkig3aonb1kftesnt2g15a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67EOO9bQCwOoMnu11lRAv_RnkTLyOnT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959590309666-a13o488f2vkkig3aonb1kftesnt2g15a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
