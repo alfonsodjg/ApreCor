@@ -208,7 +208,7 @@ public class MainActivity3HomeLevels extends AppCompatActivity {
         if(id ==R.id.itemAcercaDe){
             //Creacion de alertdialogAcercade
             AlertDialog.Builder alert=new AlertDialog.Builder(this);
-            alert.setMessage("Aplicacion creada por itsz ").setCancelable(false).setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+            alert.setMessage("Aplicacion creada en itsz por Alfonso de Jesus").setCancelable(false).setPositiveButton("Ok", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialogInterface, int i) {
 
