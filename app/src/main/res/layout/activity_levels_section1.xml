@@ -7,6 +7,8 @@
     android:background="@drawable/fondonahuatl"
     tools:context=".LevelsSection1">
 
+
+
     <TextView
         android:id="@+id/tvBasico"
         android:layout_width="match_parent"
