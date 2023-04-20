@@ -38,6 +38,8 @@ public class ResetPassActivity extends AppCompatActivity {
 
         mAuth = FirebaseAuth.getInstance();
 
+
+
         edtResetPass=(TextInputEditText) findViewById(R.id.edtResetPass);
         btnResetPass=(Button) findViewById(R.id.btnResetPass);
 
