@@ -97,6 +97,7 @@ public class Sec2Nivel3Juego extends AppCompatActivity {
                     Score();
                     mp_correcto.start();
                     rb1.setChecked(false);
+                    radioGroup.clearCheck();
                     //rb1.setSelected(false);
                     Paleatorio();
                     BaseDeDatos();
@@ -104,6 +105,7 @@ public class Sec2Nivel3Juego extends AppCompatActivity {
                     vidas--;
                     rb2.setChecked(false);
                     rb3.setChecked(false);
+                    radioGroup.clearCheck();
                     mp_incorrecto.start();
                     bandera = false;
                     Paleatorio();
@@ -131,6 +133,7 @@ public class Sec2Nivel3Juego extends AppCompatActivity {
                     score++;
                     tv_score.setText(score + "/10"); //solo funciona internamente, no se muestra en la pantalla
                     rb3.setChecked(false);
+                    radioGroup.clearCheck();
                     mp_correcto.start();
                     Score();
                     Paleatorio();
@@ -139,6 +142,7 @@ public class Sec2Nivel3Juego extends AppCompatActivity {
                     vidas--;
                     rb1.setChecked(false);
                     rb2.setChecked(false);
+                    radioGroup.clearCheck();
                     mp_incorrecto.start();
                     bandera = false;
                     Paleatorio();
@@ -166,6 +170,7 @@ public class Sec2Nivel3Juego extends AppCompatActivity {
                     score++;
                     tv_score.setText(score + "/10");
                     rb1.setChecked(false);
+                    radioGroup.clearCheck();
                     mp_correcto.start();
                     Score();
                     Paleatorio();
@@ -174,6 +179,7 @@ public class Sec2Nivel3Juego extends AppCompatActivity {
                     vidas--;
                     rb2.setChecked(false);
                     rb3.setChecked(false);
+                    radioGroup.clearCheck();
                     mp_incorrecto.start();
                     bandera = false;
                     Paleatorio();
@@ -201,6 +207,7 @@ public class Sec2Nivel3Juego extends AppCompatActivity {
                     score++;
                     tv_score.setText(score + "/10");
                     rb2.setChecked(false);
+                    radioGroup.clearCheck();
                     mp_correcto.start();
                     Score();
                     Paleatorio();
@@ -209,6 +216,7 @@ public class Sec2Nivel3Juego extends AppCompatActivity {
                     vidas--;
                     rb1.setChecked(false);
                     rb3.setChecked(false);
+                    radioGroup.clearCheck();
                     mp_incorrecto.start();
                     bandera = false;
                     Paleatorio();
@@ -236,6 +244,7 @@ public class Sec2Nivel3Juego extends AppCompatActivity {
                     score++;
                     tv_score.setText(score + "/10");
                     rb2.setChecked(false);
+                    radioGroup.clearCheck();
                     mp_correcto.start();
                     Score();
                     Paleatorio();
@@ -244,6 +253,7 @@ public class Sec2Nivel3Juego extends AppCompatActivity {
                     vidas--;
                     rb1.setChecked(false);
                     rb3.setChecked(false);
+                    radioGroup.clearCheck();
                     mp_incorrecto.start();
                     bandera = false;
                     Paleatorio();

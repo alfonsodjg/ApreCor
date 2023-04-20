@@ -39,7 +39,6 @@
 
     <Button
         android:id="@+id/btnResetPass"
-        style="@style/Widget.Material3.Button.Icon"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"

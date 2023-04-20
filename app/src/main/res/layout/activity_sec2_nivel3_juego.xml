@@ -154,7 +154,7 @@
             android:button="@android:color/transparent"
             android:text="Gato"
             android:textAlignment="center"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             android:textStyle="bold" />
 
         <RadioButton
@@ -166,7 +166,7 @@
             android:button="@android:color/transparent"
             android:text="Perro"
             android:textAlignment="center"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             android:textStyle="bold" />
 
         <RadioButton
@@ -178,7 +178,7 @@
             android:button="@android:color/transparent"
             android:text="Hormiga"
             android:textAlignment="center"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             android:textStyle="bold" />
     </RadioGroup>
 

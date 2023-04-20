@@ -39,6 +39,7 @@ public class Sec3Nivel4Juego extends AppCompatActivity {
     private int numAleatorio, score, vidas=3;
     //{"Nueve", "Siete","Seis", "Ocho", "Elotl","Tres","Etl","Se","Ome","Tzatza"};
     private String [] vectorPalabras = {"Tu perro", "Cuatro manzanas","Gracias","Tengo dos casas","El agua no esta dulce","Tlen motoka","no mama kikpia se miston", "amo","xocotl","etl"};
+    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -114,6 +115,7 @@ public class Sec3Nivel4Juego extends AppCompatActivity {
                         score++;
                         tv_score.setText(score + "/10");
                         rb1.setChecked(false);
+                        radioGroup.clearCheck();
                         Aleatorio();
                         Score();
                         BaseDeDatos();
@@ -122,6 +124,7 @@ public class Sec3Nivel4Juego extends AppCompatActivity {
                     }else {
                         vidas--;
                         rb2.setChecked(false);
+                        radioGroup.clearCheck();
                         Aleatorio();
                         mp_incorrecto.start();
                     }
@@ -135,6 +138,7 @@ public class Sec3Nivel4Juego extends AppCompatActivity {
                         tv_score.setText(score + "/10");
                         bandera=true;
                         rb2.setChecked(false);
+                        radioGroup.clearCheck();
                         mp_correcto.start();
                         Aleatorio();
                         Score();
@@ -142,6 +146,7 @@ public class Sec3Nivel4Juego extends AppCompatActivity {
                     }else{
                         vidas--;
                         rb1.setChecked(false);
+                        radioGroup.clearCheck();
                         mp_incorrecto.start();
                         Aleatorio();
                     }
@@ -154,6 +159,7 @@ public class Sec3Nivel4Juego extends AppCompatActivity {
                         score++;
                         tv_score.setText(score + "/10");
                         rb1.setChecked(false);
+                        radioGroup.clearCheck();
                         bandera=true;
                         mp_correcto.start();
                         Aleatorio();
@@ -163,6 +169,7 @@ public class Sec3Nivel4Juego extends AppCompatActivity {
                         vidas--;
                         mp_incorrecto.start();
                         rb2.setChecked(false);
+                        radioGroup.clearCheck();
                         Aleatorio();
                     }
                 }else {
@@ -174,6 +181,7 @@ public class Sec3Nivel4Juego extends AppCompatActivity {
                         score++;
                         tv_score.setText(score + "/10");
                         rb1.setChecked(false);
+                        radioGroup.clearCheck();
                         bandera=true;
                         mp_correcto.start();
                         Aleatorio();
@@ -183,6 +191,7 @@ public class Sec3Nivel4Juego extends AppCompatActivity {
                         vidas--;
                         mp_incorrecto.start();
                         rb2.setChecked(false);
+                        radioGroup.clearCheck();
                         Aleatorio();
                     }
                 }else {
@@ -194,6 +203,7 @@ public class Sec3Nivel4Juego extends AppCompatActivity {
                         score++;
                         tv_score.setText(score + "/10");
                         rb1.setChecked(false);
+                        radioGroup.clearCheck();
                         bandera=true;
                         mp_correcto.start();
                         Aleatorio();
@@ -203,6 +213,7 @@ public class Sec3Nivel4Juego extends AppCompatActivity {
                         vidas--;
                         mp_incorrecto.start();
                         rb1.setChecked(false);
+                        radioGroup.clearCheck();
                         Aleatorio();
                     }
                 }else {

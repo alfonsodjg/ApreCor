@@ -90,6 +90,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                             score++;
                             tv_score.setText(score + "/10");
                             rb1.setChecked(false);
+                            radioGroup.clearCheck();
                             bandera = true;
                             Score();
                             PAleatorio();
@@ -98,6 +99,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                         }else{
                             vidas--;
                             PAleatorio();
+                            radioGroup.clearCheck();
                             mp_incorrecto.start();
                         }
                     }else if(numAleatorio==1){
@@ -106,6 +108,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                             tv_score.setText(score + "/10");
                             rb2.setChecked(false);
                             rb2.setChecked(false);
+                            radioGroup.clearCheck();
                             bandera = true;
                             Score();
                             PAleatorio();
@@ -125,6 +128,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                             Score();
                             PAleatorio();
                             BaseDeDatos();
+                            radioGroup.clearCheck();
                             mp_correcto.start();
                         }else {
                             vidas--;
@@ -136,6 +140,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                             score++;
                             tv_score.setText(score + "/10");
                             rb2.setChecked(false);
+                            radioGroup.clearCheck();
                             bandera = true;
                             Score();
                             PAleatorio();
@@ -144,6 +149,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                         }else{
                             vidas--;
                             PAleatorio();
+                            radioGroup.clearCheck();
                             mp_incorrecto.start();
                         }
                     }else if(numAleatorio ==4){
@@ -154,11 +160,13 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                             bandera = true;
                             Score();
                             PAleatorio();
+                            radioGroup.clearCheck();
                             BaseDeDatos();
                             mp_correcto.start();
                         }else {
                             vidas--;
                             PAleatorio();
+                            radioGroup.clearCheck();
                             mp_incorrecto.start();
                         }
                     }
@@ -172,6 +180,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                             score++;
                             tv_score.setText(score + "/10");
                             rbCorto2.setChecked(false);
+                            rGroupCortos.clearCheck();
                             bandera = true;
                             Score();
                             PAleatorio();
@@ -180,6 +189,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                         }else{
                             vidas--;
                             PAleatorio();
+                            rGroupCortos.clearCheck();
                             mp_incorrecto.start();
                         }
                     }else if(numAleatorio ==6){
@@ -187,6 +197,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                             score++;
                             tv_score.setText(score + "/10");
                             rbCorto1.setChecked(false);
+                            rGroupCortos.clearCheck();
                             bandera = true;
                             Score();
                             PAleatorio();
@@ -195,6 +206,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                         }else{
                             vidas--;
                             PAleatorio();
+                            rGroupCortos.clearCheck();
                             mp_incorrecto.start();
                         }
                     }else if(numAleatorio==7){
@@ -202,6 +214,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                             score++;
                             tv_score.setText(score + "/10");
                             rbCorto2.setChecked(false);
+                            rGroupCortos.clearCheck();
                             bandera = true;
                             Score();
                             PAleatorio();
@@ -210,6 +223,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                         }else {
                             vidas--;
                             PAleatorio();
+                            rGroupCortos.clearCheck();
                             mp_incorrecto.start();
                         }
                     }else if(numAleatorio==8){
@@ -217,6 +231,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                             score++;
                             tv_score.setText(score + "/10");
                             rbCorto1.setChecked(false);
+                            rGroupCortos.clearCheck();
                             bandera = true;
                             Score();
                             PAleatorio();
@@ -225,6 +240,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                         }else {
                             vidas--;
                             PAleatorio();
+                            rGroupCortos.clearCheck();
                             mp_incorrecto.start();
                         }
                     }else if(numAleatorio==9){
@@ -232,6 +248,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                             score++;
                             tv_score.setText(score + "/10");
                             rbCorto2.setChecked(false);
+                            rGroupCortos.clearCheck();
                             bandera = true;
                             Score();
                             PAleatorio();
@@ -240,6 +257,7 @@ public class Sec2Nivel4Juego extends AppCompatActivity {
                         }else{
                             vidas--;
                             PAleatorio();
+                            rGroupCortos.clearCheck();
                             mp_incorrecto.start();
                         }
                     }

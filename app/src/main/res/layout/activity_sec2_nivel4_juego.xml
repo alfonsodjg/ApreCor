@@ -121,6 +121,7 @@
             android:background="@drawable/radio_selector_buttons_juego"
             android:button="@android:color/transparent"
             android:text="RadioButton"
+            android:textStyle="bold"
             android:textAlignment="center" />
 
         <RadioButton
@@ -128,6 +129,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
+            android:textStyle="bold"
             android:background="@drawable/radio_selector_buttons_juego"
             android:button="@android:color/transparent"
             android:text="RadioButton"
@@ -138,6 +140,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
+            android:textStyle="bold"
             android:background="@drawable/radio_selector_buttons_juego"
             android:button="@android:color/transparent"
             android:text="RadioButton"

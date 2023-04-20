@@ -114,6 +114,7 @@ public class Sec3Nivel3Juego extends AppCompatActivity {
                         score++;
                         tv_score.setText(score + "/10");
                         rb1.setChecked(false);
+                        radioGroup.clearCheck();
                         Aleatorio();
                         Score();
                         BaseDeDatos();
@@ -122,6 +123,7 @@ public class Sec3Nivel3Juego extends AppCompatActivity {
                     }else {
                         vidas--;
                         rb2.setChecked(false);
+                        radioGroup.clearCheck();
                         Aleatorio();
                         mp_incorrecto.start();
                     }
@@ -135,6 +137,7 @@ public class Sec3Nivel3Juego extends AppCompatActivity {
                         tv_score.setText(score + "/10");
                         bandera=true;
                         rb2.setChecked(false);
+                        radioGroup.clearCheck();
                         mp_correcto.start();
                         Aleatorio();
                         Score();
@@ -142,6 +145,7 @@ public class Sec3Nivel3Juego extends AppCompatActivity {
                     }else{
                         vidas--;
                         rb1.setChecked(false);
+                        radioGroup.clearCheck();
                         mp_incorrecto.start();
                         Aleatorio();
                     }
@@ -154,6 +158,7 @@ public class Sec3Nivel3Juego extends AppCompatActivity {
                         score++;
                         tv_score.setText(score + "/10");
                         rb1.setChecked(false);
+                        radioGroup.clearCheck();
                         bandera=true;
                         mp_correcto.start();
                         Aleatorio();
@@ -163,6 +168,7 @@ public class Sec3Nivel3Juego extends AppCompatActivity {
                         vidas--;
                         mp_incorrecto.start();
                         rb2.setChecked(false);
+                        radioGroup.clearCheck();
                         Aleatorio();
                     }
                 }else {
@@ -174,6 +180,7 @@ public class Sec3Nivel3Juego extends AppCompatActivity {
                         score++;
                         tv_score.setText(score + "/10");
                         rb1.setChecked(false);
+                        radioGroup.clearCheck();
                         bandera=true;
                         mp_correcto.start();
                         Aleatorio();
@@ -183,6 +190,7 @@ public class Sec3Nivel3Juego extends AppCompatActivity {
                         vidas--;
                         mp_incorrecto.start();
                         rb2.setChecked(false);
+                        radioGroup.clearCheck();
                         Aleatorio();
                     }
                 }else {
@@ -196,6 +204,7 @@ public class Sec3Nivel3Juego extends AppCompatActivity {
                         rb1.setChecked(false);
                         bandera=true;
                         mp_correcto.start();
+                        radioGroup.clearCheck();
                         Aleatorio();
                         Score();
                         BaseDeDatos();
@@ -203,6 +212,7 @@ public class Sec3Nivel3Juego extends AppCompatActivity {
                         vidas--;
                         mp_incorrecto.start();
                         rb1.setChecked(false);
+                        radioGroup.clearCheck();
                         Aleatorio();
                     }
                 }else {
